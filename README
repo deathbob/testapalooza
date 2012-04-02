@@ -1,5 +1,7 @@
 Your mission, if you choose to accept it, is to write tests that verify the behavior of this black-box date emitter.
 
+http://feed2.w3.org/docs/error/InvalidRFC3339Date.html
+
 TODO
 Build date emitter.
 scaffold out test files.
